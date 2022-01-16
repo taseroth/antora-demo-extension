@@ -1,0 +1,2 @@
+= Neo4j Extension
+Entry point for the Neo4j Extension (plugin) of the demo project

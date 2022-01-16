@@ -1,0 +1,6 @@
+name: neo4j-extension
+title: Neo4j Extension
+version: dev
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc
